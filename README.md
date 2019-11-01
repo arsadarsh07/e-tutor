@@ -1,5 +1,5 @@
 # e-tutor
-Reflects idea of online self learning usi java GUI through netbeans.
+Reflects idea of online self learning using java GUI through netbeans.
 Abstract:
 
 Now a days Tutorial Points are becoming useful to the students who are in the search of quality education. So, this application provides the support for both the tutors and students. The Admin is the head of this application who can view the students and tutors registered into the application. Admin will add the courses. The tutors who need to be registered and login and can select the course he would like teach by providing location and timings.
